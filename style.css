@@ -35,7 +35,7 @@ body {
     flex-wrap: nowrap;
     margin-left: auto;
     margin-right: auto;
-    background-color: DodgerBlue;
+    /* background-color: DodgerBlue; */
   }
   
   .flex-container > div {
@@ -46,8 +46,6 @@ body {
     /* line-height: px; */
     font-size: 15px;
   }
-
-
 
 
   .big-card-container {
